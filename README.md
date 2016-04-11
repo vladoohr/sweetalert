@@ -1,6 +1,7 @@
 # Sweetalert for Spree
 
 So... What does it do?
+
 Please visit: http://t4t5.github.io/sweetalert/
 
 ## Installation
