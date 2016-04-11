@@ -25,15 +25,15 @@ Just like this:
 application.js:
 
 ```javascript
-//= require sweet-alert
+//= require sweetalert-dev
 ```
 application.css:
 
 ```css
 /*
- *= require sweet-alert
+ *= require sweetalert
  */
-```
+ ```
 
 ## Development
 
