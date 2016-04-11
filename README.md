@@ -24,13 +24,16 @@ Just like this:
 
 application.js:
 
+```javascript
 //= require sweet-alert
-
+```
 application.css:
 
+```css
 /*
  *= require sweet-alert
  */
+```
 
 ## Development
 
